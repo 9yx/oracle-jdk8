@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Java Policy Setting
+Comment=Java Policy Setting
+Exec=policytool
+Icon=sun-java.png
+Terminal=false
+Type=Application
+Categories=Application;Settings;Java;X-Red-Hat-Base;X-Ximian-Settings;

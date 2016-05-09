@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Java Monitoring & Management Console
+Comment=Java Monitoring & Management Console
+Exec=jconsole
+Icon=sun-java.png
+Terminal=false
+Type=Application
+Categories=Application;Settings;Java;X-Red-Hat-Base;X-Ximian-Settings;
